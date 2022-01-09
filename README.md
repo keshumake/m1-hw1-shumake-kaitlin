@@ -5,3 +5,5 @@ fatal: The current branch content-test has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin content-test
+
+For outside sources, I used the Git cheat sheet provided in the module to see how to merge and create branches.
